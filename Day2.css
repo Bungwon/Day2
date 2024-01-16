@@ -12,3 +12,27 @@
     border: 1px solid red;
     font-size: 40px;
 }
+.Branch{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    border: 1px solid brown;
+    background-image: url(https://media.istockphoto.com/id/106492379/photo/soldiers-against-a-sunset.jpg?s=612x612&w=0&k=20&c=LmDIl1q67RG9JizwO6X8kyUByo-8WN5tr-IaY9PiS9w=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    color: #fff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.Branch h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Branch p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
